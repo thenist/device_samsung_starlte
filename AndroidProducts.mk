@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_starlte.mk
+    $(LOCAL_DIR)/xdroid_starlte.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_starlte-eng \
-    evolution_starlte-user \
-    evolution_starlte-userdebug
+    xdroid_starlte-eng \
+    xdroid_starlte-user \
+    xdroid_starlte-userdebug
